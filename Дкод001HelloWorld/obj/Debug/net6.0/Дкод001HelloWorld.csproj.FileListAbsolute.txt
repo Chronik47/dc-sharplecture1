@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\bin\Debug\net6.0\Дкод001HelloWorld.exe
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\bin\Debug\net6.0\Дкод001HelloWorld.deps.json
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\bin\Debug\net6.0\Дкод001HelloWorld.runtimeconfig.json
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\bin\Debug\net6.0\Дкод001HelloWorld.dll
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\bin\Debug\net6.0\Дкод001HelloWorld.pdb
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.AssemblyInfo.cs
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.dll
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\refint\Дкод001HelloWorld.dll
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.pdb
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\Дкод001HelloWorld.genruntimeconfig.cache
+C:\Users\user\Desktop\ДC#лекция1\Дкод001HelloWorld\obj\Debug\net6.0\ref\Дкод001HelloWorld.dll
