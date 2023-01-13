@@ -28,8 +28,8 @@
 
 // 4. Конструкция кода с консолью в одну строку.
 
-Console.Write ("Введите ваше имя: ");
-string username = Console.ReadLine();
-Console.Write ("Привет, " + username + "!" );
+// Console.Write ("Введите ваше имя: ");
+// string username = Console.ReadLine();
+// Console.Write ("Привет, " + username + "!" );
 
 
